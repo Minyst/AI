@@ -25,4 +25,3 @@ g = np.array(g)
 b = np.array(b)
 
 print(r.mean(), g.mean(), b.mean(), r.std(), g.std(), b.std())
-
